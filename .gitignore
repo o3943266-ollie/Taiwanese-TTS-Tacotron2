@@ -1,3 +1,11 @@
+# 忽略大型模型
+tacotron2/outdir/
+waveglow/*.pt
+
+# 忽略音檔輸出
+*.wav
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
