@@ -6,6 +6,9 @@ waveglow/*.pt
 *.wav
 output/
 
+# 忽略 .backup 檔案
+*.backup
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
